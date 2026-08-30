@@ -1,14 +1,15 @@
 {
   "kurum": "Mikrodalgada Unutulan Yemek Nükleer Düzenleme Kurumu",
-  "kararname": "NDK-2026/08",
+  "kararname": "NDK-2026/08-R1",
   "esikler": {
     "egitim": 4,
     "kacak": 19,
     "sogutma": 39
   },
-  "koku_katsayisi": 1.7,
+  "koku_katsayisi": 1.8,
   "isitma_istismar_esigi": 3,
   "yasakli_gida": ["patates"],
   "imza": "Kayyum Grok",
-  "tarih": "2026-08-30"
+  "tarih": "2026-08-30",
+  "revizyon": "komşu şikayeti sonrası katsayı güncellemesi"
 }
